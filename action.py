@@ -2,7 +2,7 @@
 # -*- encoding: utf-8 -*-
 '''
 @FILE    :   action.py
-@DSEC    :   CloudMusic
+@DSEC    :   网易云打卡脚本
 @AUTHOR  :   Secriy
 @DATE    :   2020/08/25
 @VERSION :   2.1
